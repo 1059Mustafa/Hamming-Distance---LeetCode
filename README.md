@@ -1,1 +1,1 @@
-# Hamming-Distance---LeetCode
+#trik+bruteforce=Hamming-Distance---LeetCode
